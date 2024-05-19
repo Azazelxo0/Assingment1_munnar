@@ -1,0 +1,118 @@
+.background {
+    position: relative;
+
+}
+
+.main {
+    width: 1457px;
+    height: 1500px;
+    background-color:white;
+    position: absolute;
+    top: 0px;
+    left: 30px;
+    right: 30px;
+
+}
+#r1{
+    
+    margin-top: 20px;
+   
+}
+#r1 p{
+    background-color:#fffce0;
+    border-radius: 10px;
+    border: 1px solid #e2bb56;
+    margin-right: 20px;
+}
+#r2{
+    
+    border-right: 1px solid black;
+    color: white;
+    
+
+}
+#nav{
+    margin-top: 50px;
+    border:1px solid #e2bb56;
+    background-color: green;
+}
+#r2:hover{
+    color:yellow;
+}
+#r3{
+    
+    border-right: 1px solid black;
+    color:green;
+    background-color: #e2bb56;
+    
+
+}
+.card-body{
+    background-color:#fffce0;
+
+}
+.card-title{
+    color: green;
+}
+.card-bottom{
+    background-color: green;
+    height: 20px;
+    
+    bottom: 0px;
+}
+.about{
+    width: 800px;
+    height: 350px;
+    float: left;
+    
+    margin-top: 30px;
+    margin-left: 40px;
+}
+.about h2{
+    color: green;
+}
+#img_munnar{
+    margin-top: 20px;
+}
+#text{
+    display: flex;
+}
+.about p{
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
+.form{
+    float: right;
+    margin-right: 180px;
+    margin-top: 50px;
+    border: 1px solid green;
+    background-color: rgb(235, 234, 234);
+    padding: 10px 10px 10px 10px;
+
+}
+#b1{
+    width: 300px;
+}
+#b2{
+    width: 300px;
+    background-color: green;
+    margin-top: 10px; 
+}
+.see{
+    margin-top: 300px;
+    margin-right: 550px;
+    margin-left: 40px;
+    
+
+
+}
+.see h2{
+    color: green;
+
+}
+#r4{
+   
+    margin-top: 20px;
+    height: 200px;
+}
